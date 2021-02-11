@@ -30,7 +30,7 @@ body {
 .btn {
   display: inline-block;
   background: #272;
-  color: #fff;
+  color: rgb(241, 232, 232);
   border: none;
   padding: 10px 20px;
   margin: 5px;
